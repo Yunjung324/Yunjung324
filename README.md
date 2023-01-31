@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>🌱Yunjung</div>
+<a href = "https://blog.naver.com/rachel324cc"><img src="https://img.shields.io/badge/-blog-green"/></a>
