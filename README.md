@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3>🌱Yunjung💜</h3>
 <div>
   <a href = "https://blog.naver.com/rachel324cc"><img src="https://img.shields.io/badge/-blog-green"/></a>
+  <a href = "https://velog.io/@rachel324cc"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white")"/></a>
   <a href = "https://www.instagram.com/dbswjd_324"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
 
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/></a>
+
+github-readme-stats.vercel.app/api?username=Yunjung324&show_icons=true&theme=dark
