@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunjung324&count_bg=%23D3A3F3&title_bg=%23555555&icon=iconify.svg&icon_color=%23C893F4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunjung324&show_icons=true&theme=radical)
